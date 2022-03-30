@@ -1,0 +1,45 @@
+//output of running all the test cases
+
+Closing browser
+Enter user name and password
+opening browser
+one new message
+No new notification
+Four new requests
+
+===============================================
+All Test Suite
+Total tests run: 6, Failures: 0, Skips: 0
+===============================================
+
+
+//output of running testcases by assigning priority
+
+opening browser
+one new message
+No new notification
+Enter user name and password
+Closing browser
+Four new requests
+
+===============================================
+All Test Suite
+Total tests run: 6, Failures: 0, Skips: 0
+===============================================
+
+
+
+//output of running testcases by assigning group
+
+opening browser
+one new message
+No new notification
+Four new requests
+
+===============================================
+All Test Suite
+Total tests run: 4, Failures: 0, Skips: 0
+===============================================
+
+
+Process finished with exit code 0

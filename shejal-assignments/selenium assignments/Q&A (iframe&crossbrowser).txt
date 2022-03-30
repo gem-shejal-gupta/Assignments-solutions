@@ -1,0 +1,23 @@
+QUESTION C. - Short answer
+
+1.Do iFrames have their own tags like <html>, <head>?
+Answer: yes, they have their own tags.
+
+2.Can we access elements inside an iFrame when driver is on parent object?
+Answer: Yes,we can by switching to the iframe.
+
+3.In case of nested iFrames, what is the command to switch from innermost iFrame to outermost webpage?
+Answer: driver.switchTo().defaultContent();
+
+4.What is the command to move to immediate parent of iFrame?
+Answer: driver.switchTo().parentFrame();
+
+5.What is the difference between frames & iFrames?
+Answer:Frame is a HTML tag that is used to divide the web page into various frames/windows
+Used as <frame> tag, it specifies each frame within a frameset tag.
+
+Iframe as <iframe> is also a tag used in HTML but it specifies an inline frame which means 
+it is used to embed some other document within the current HTML document.
+
+6.Can we execute same TCs on different browsers at the same time?
+Answer: yes we can
